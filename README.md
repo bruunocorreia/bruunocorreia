@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 🏆 I currently work as a Staff Data Scientist/Tech Lead at Bank in Brazil.
+- 🏆 I currently work as a Staff Data Scientist/Tech Lead at Santander Bank in Brazil.
   
 - 🎯 I specialize in Credit Modeling, Pricing Optimization, Customer Segmentation, Churn Prediction, Propensity and Regression Models, Reinforcement Learning, Multi-Armed Bandit algorithms, Time Series Modeling, and Optimization Models.
   
