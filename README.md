@@ -12,6 +12,13 @@
   
 - 💡 I'm passionate about utilizing data to solve real-world problems and make a positive impact on the world. I'm also dedicated to education and mentoring, and I find joy in helping others learn about data science.
 
-Feel free to connect and explore my open-source projects. Let's collaborate and harness the potential of data! 🚀
+### 📊 Projects
 
-![Bruno Correia stats](https://github-readme-stats.vercel.app/api?username=bruunocorreia&count_private=true)
+- 1️⃣ [Adversarial models](https://github.com/bruunocorreia/AdversarialModels)
+  - Python Class for Detecting Data Drift and Performing Feature Selection
+- 2️⃣ [Multi Armed Bandit Pyspark](https://github.com/diascarolina/imersao-dados-desafio-final)
+  - implementation of a Multi-Armed Bandit (Thompson sampling, upper confidence bound and epsilon greedy)
+
+🌐 [more projects...](https://github.com/bruunocorreia)
+
+Feel free to connect and explore my open-source projects. Let's collaborate and harness the potential of data! 🚀
