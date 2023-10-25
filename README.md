@@ -1,8 +1,6 @@
 ## About Me
 # Welcome to My GitHub Profile! 👋
 
-![Bruno Correia stats](https://github-readme-stats.vercel.app/api?username=bruunocorreia&count_private=true)
-
 ## About Me
 - 🏆 I currently work as a Staff Data Scientist/Tech Lead at Bank in Brazil.
   
@@ -15,3 +13,5 @@
 - 💡 I'm passionate about utilizing data to solve real-world problems and make a positive impact on the world. I'm also dedicated to education and mentoring, and I find joy in helping others learn about data science.
 
 Feel free to connect and explore my open-source projects. Let's collaborate and harness the potential of data! 🚀
+
+![Bruno Correia stats](https://github-readme-stats.vercel.app/api?username=bruunocorreia&count_private=true)
