@@ -16,7 +16,7 @@
 
 - 1️⃣ [Adversarial models](https://github.com/bruunocorreia/AdversarialModels)
   - Python Class for Detecting Data Drift and Performing Feature Selection
-- 2️⃣ [Multi Armed Bandit Pyspark](https://github.com/diascarolina/imersao-dados-desafio-final)
+- 2️⃣ [Multi Armed Bandit Pyspark](https://github.com/bruunocorreia/ReinforcementLearningPyspark)
   - implementation of a Multi-Armed Bandit (Thompson sampling, upper confidence bound and epsilon greedy)
 
 🌐 [more projects...](https://github.com/bruunocorreia)
