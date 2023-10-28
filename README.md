@@ -14,11 +14,12 @@
 
 ### 📊 Projects
 
-- 1️⃣ [Adversarial models](https://github.com/bruunocorreia/AdversarialModels)
+- 1️ [Adversarial models](https://github.com/bruunocorreia/AdversarialModels)
   - Python Class for Detecting Data Drift and Performing Feature Selection
-- 2️⃣ [Multi Armed Bandit Pyspark](https://github.com/bruunocorreia/ReinforcementLearningPyspark)
+- 2 [Multi Armed Bandit Pyspark](https://github.com/bruunocorreia/ReinforcementLearningPyspark)
   - implementation of a Multi-Armed Bandit (Thompson sampling, upper confidence bound and epsilon greedy)
-
+- 3 [Machine learning model using Kedro pipeline]([https://github.com/bruunocorreia/ReinforcementLearningPyspark](https://github.com/bruunocorreia/ModelingMLKedroPipeline))
+  - Implementation of a Kedro pipeline for a Kaggle competition challenge
 🌐 [more projects...](https://github.com/bruunocorreia?tab=repositories)
 
 Feel free to connect and explore my open-source projects. Let's collaborate and harness the potential of data! 🚀
