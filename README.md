@@ -18,7 +18,7 @@
   - Python Class for Detecting Data Drift and Performing Feature Selection
 - 2 [Multi Armed Bandit Pyspark](https://github.com/bruunocorreia/ReinforcementLearningPyspark)
   - implementation of a Multi-Armed Bandit (Thompson sampling, upper confidence bound and epsilon greedy)
-- 3 [ML using Kedro pipeline](https://github.com/bruunocorreia/ReinforcementLearningPyspark](https://github.com/bruunocorreia/ModelingMLKedroPipeline))
+- 3 [ML using Kedro pipeline](https://github.com/bruunocorreia/ModelingMLKedroPipeline)
   - Implementation of a Kedro pipeline for a Kaggle competition challenge
     
 🌐 [more projects...](https://github.com/bruunocorreia?tab=repositories)
