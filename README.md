@@ -15,7 +15,7 @@
 ### 📊 Projects
 
 - 1️⃣ [ML using Kedro pipeline](https://github.com/bruunocorreia/ModelingMLKedroPipeline)
-  - Model implementatio using Kedro pipeline and airflow for a Kaggle competition challenge
+  - Model deployment/implementation using Kedro pipeline and airflow for a Kaggle competition challenge
 - 2️⃣ [Multi Armed Bandit Pyspark](https://github.com/bruunocorreia/ReinforcementLearningPyspark)
   - implementation of a Multi-Armed Bandit (Thompson sampling, upper confidence bound and epsilon greedy)
 - 3️⃣ [Adversarial models](https://github.com/bruunocorreia/AdversarialModels)
