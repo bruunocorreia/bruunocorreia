@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 🏆 I currently work as a Tech Lead Data Scientist at Santander Bank Brazil.
+- 🏆 I currently work as a Lead Data Scientist & Engineer at Latam Airlines.
   
 - 🎯 I specialize in Credit Modeling, Pricing Optimization, Customer Segmentation, Churn Prediction, Propensity and Regression Models, Reinforcement Learning, Multi-Armed Bandit algorithms, Time Series Modeling, and Optimization Models.
   
